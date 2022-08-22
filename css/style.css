@@ -1,0 +1,41 @@
+body
+{
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+h1
+{
+    font-size: 40px;
+}
+.content
+{
+    color: black;
+    padding-left: 60px;
+}
+.container
+{
+    display: flex;
+}
+.list
+{
+    justify-content: flex-end;
+}
+.header
+{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    color: white;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+}
+li
+{
+    padding-right: 24px;
+}
