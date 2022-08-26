@@ -13,6 +13,10 @@ h1
     color: black;
     padding-left: 60px;
 }
+.portuguese
+{
+    display: none;
+}
 .container
 {
     display: flex;
